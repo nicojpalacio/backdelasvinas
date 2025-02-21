@@ -34,7 +34,7 @@
       "inversedBy": "reservations"
     },
     "phoneNumber": {
-      "type": "integer"
+      "type": "biginteger"
     }
   }
 }
